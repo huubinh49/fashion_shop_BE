@@ -1,0 +1,796 @@
+[
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_black_2_49229206806_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_olivenavy_2_49229204366_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive-navy_20x20.png?v=10043498136048994580",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_blueblack_2_49229433202_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue-black_20x20.png?v=13250750035885891285",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_silvercharcoal_5_49229203481_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/silver-charcoal_20x20.png?v=2855590519051121765",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_navyred_1_49229432552_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/navy-red_20x20.png?v=5560284584146301598",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Standard Pack",
+    "price": "$99.00",
+    "shop": "shop_mens",
+    "ID": 0
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_green_3_49200420402_ocopy_1024x1024.jpg?v=1584160985",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_black_1_49199734343_ocopy_1024x1024.jpg?v=1585149405",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_blue_4_49200226606_ocopy_1024x1024.jpg?v=1585149405",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_gray_2_49200420902_ocopy_1024x1024.jpg?v=1583962788",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/gray_20x20.png?v=14958903820372774743",
+        "color_name": "gray"
+      }
+    ],
+    "name": "Wind Anorak - Sport - Men's",
+    "price": "$149.00",
+    "shop": "shop_mens",
+    "ID": 1
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49200205407_879e08050c_o_copy_1024x1024.jpg?v=1583770267",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural-floral_20x20.png?v=12620997631436447690",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49200205407_879e08050c_o_bluefloral_1024x1024.jpg?v=1583779165",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue-floral_20x20.png?v=9645302082097470754",
+        "color_name": "blue"
+      }
+    ],
+    "name": "Tour Shirt - Floral - Women's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 2
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/red-bandana_1024x1024.jpg?v=1584041221",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/white-bandana_1024x1024.jpg?v=1584041221",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/green-bandana_1024x1024.jpg?v=1584041221",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Bandana - Print",
+    "price": "$18.00",
+    "shop": "shop_mens",
+    "ID": 3
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-Ultralight-Blue-1_1024x1024.jpg?v=1588365691",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-Ultralight-Gold-1_1024x1024.jpg?v=1588365691",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/dark-khaki_20x20.png?v=16510361198170152500",
+        "color_name": "dark"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-Ultralight-Green-1_1024x1024.jpg?v=1588365691",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-Ultralight-Black-1_1024x1024.jpg?v=1588365691",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-Ultralight-Silver-1_1024x1024.jpg?v=1588365691",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/silver_20x20.png?v=13488156119997755210",
+        "color_name": "silver"
+      }
+    ],
+    "name": "Ultralight Jacket - Men's",
+    "price": "$89.00",
+    "shop": "shop_mens",
+    "ID": 4
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/m-mountain-shirt-lightweight-2_1024x1024.jpg?v=1588000417",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/m-mountain-shirt-lightweight-5_1024x1024.jpg?v=1588000425",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/m-mountain-shirt-lightweight-4_1024x1024.jpg?v=1588000434",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/m-mountain-shirt-lightweight-1_1024x1024.jpg?v=1588000447",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/deep-blue_20x20.png?v=9158257500524939880",
+        "color_name": "deep"
+      }
+    ],
+    "name": "Mountain Shirt - Lightweight - Men's",
+    "price": "$89.00",
+    "shop": "shop_mens",
+    "ID": 5
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/f19_m_pr_topodesignsxdanner_techtee_3_49030038568_ocopy_1024x1024.jpg?v=1586451302",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Topo Designs x Danner Tech Tee - Long Sleeve - Men's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 6
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/m-dn-side-singlecopy_1024x1024.jpg?v=1586451642",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/multi_20x20.png?v=11754030091900953614",
+        "color_name": "multi"
+      }
+    ],
+    "name": "Topo Designs x Danner Trail 2650 - Men's",
+    "price": "$159.95",
+    "shop": "shop_mens",
+    "ID": 7
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windjacketsport_gray_6_49200419392_ocopy_1024x1024.jpg?v=1585162119",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/gray_20x20.png?v=14958903820372774743",
+        "color_name": "gray"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windjacketsport_green_9_49199723113_ocopy_1024x1024.jpg?v=1585162127",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windjacketsport_blue_7_49200219566_ocopy_1024x1024.jpg?v=1585162137",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windjacketsport_black_8_49199727178_ocopy_1024x1024.jpg?v=1585162145",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Wind Jacket - Sport - Men's",
+    "price": "$129.00",
+    "shop": "shop_mens",
+    "ID": 8
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tourshirt_bluefloral_1_49200039006_o_copy_1024x1024.jpg?v=1583773612",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue-floral_20x20.png?v=9645302082097470754",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tourshirt_naturalfloral_1_49200039006_o_copy_1024x1024.jpg?v=1583773612",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural-floral_20x20.png?v=12620997631436447690",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tourshirt_redfloral_1_49200039006_o_copy_1024x1024.jpg?v=1583773612",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/red-floral_20x20.png?v=10546564197127419944",
+        "color_name": "red"
+      }
+    ],
+    "name": "Tour Shirt - Floral - Men's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 9
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_trailshortssport_black_1_49195220448_o_copy_1024x1024.jpg?v=1586470237",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_trailshortssport_blue_1_49195219173_o_copy_1024x1024.jpg?v=1586470237",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_trailshortssport_red_1_49195916727_o_copy_1024x1024.jpg?v=1586470237",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      }
+    ],
+    "name": "Trail Shorts - Sport - Men's",
+    "price": "$59.00",
+    "shop": "shop_mens",
+    "ID": 10
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_globalhat_green_1024x1024.jpg?v=1585148767",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_globalhat_blue_1024x1024.jpg?v=1585148767",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_globalhat_black_49200685882_o_copy_1024x1024.jpg?v=1585148767",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_globalhat_gray_49200484906_o_copy_1024x1024.jpg?v=1585148767",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/light-gray_20x20.png?v=6788863526070390953",
+        "color_name": "light"
+      }
+    ],
+    "name": "Global Hat",
+    "price": "$32.00",
+    "shop": "shop_mens",
+    "ID": 11
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Web-Belt-1.5-Black_1024x1024.jpg?v=1588728431",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Web-Belt-1.5-Silver_1024x1024.jpg?v=1588728451",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/silver_20x20.png?v=13488156119997755210",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Web-Belt-1.5-Khaki_1024x1024.jpg?v=1588728531",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/khaki_20x20.png?v=10344708049747258102",
+        "color_name": "khaki"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Web-Belt-1.5-Blue_1024x1024.jpg?v=1588728553",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Web-Belt-1.5-Red_1024x1024.jpg?v=1588728561",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      }
+    ],
+    "name": "Web Belt - 1.5",
+    "price": "$39.00",
+    "shop": "shop_mens",
+    "ID": 12
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_green_3_49200420402_ocopy_1024x1024.jpg?v=1584160985",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_black_1_49199734343_ocopy_1024x1024.jpg?v=1585149405",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_blue_4_49200226606_ocopy_1024x1024.jpg?v=1585149405",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_gray_2_49200420902_ocopy_1024x1024.jpg?v=1583962788",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/gray_20x20.png?v=14958903820372774743",
+        "color_name": "gray"
+      }
+    ],
+    "name": "Wind Anorak - Sport - Men's",
+    "price": "$149.00",
+    "shop": "shop_mens",
+    "ID": 13
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tourshirt_greengeo_1_49199550738_o_copy_1024x1024.jpg?v=1583773698",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/geo-green_20x20.png?v=9549419126906049487",
+        "color_name": "geo"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tourshirt_bluegeo_1_49199550738_o_copy_1024x1024.jpg?v=1583773698",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/geo-navy_20x20.png?v=14697620554541556868",
+        "color_name": "geo"
+      }
+    ],
+    "name": "Tour Shirt - Geo - Men's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 14
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_routeshirt_olive_2_49199560278_ocopy_1024x1024.jpg?v=1585149624",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_routeshirt_natural_1_49199560458_ocopy_1024x1024.jpg?v=1585149624",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_routeshirt_black_1_49670954566_ocopy_1024x1024.jpg?v=1585149624",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_routeshirt_khaki_3_49199559158_ocopy_1024x1024.jpg?v=1585149624",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/khaki_20x20.png?v=10344708049747258102",
+        "color_name": "khaki"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_routeshirt_deepblue_4_49200053536_ocopy_1024x1024.jpg?v=1584977778",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/deep-blue_20x20.png?v=9158257500524939880",
+        "color_name": "deep"
+      }
+    ],
+    "name": "Route Shirt - Men's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 15
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/pocket_tee_long_sleeve_Clay_1024x1024.jpg?v=1585693247",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/clay_20x20.png?v=8061366705750319442",
+        "color_name": "clay"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-PocketTeeLongSleeve-Blue_1024x1024.jpg?v=1585693247",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-PocketTeeLongSleeve-Olive_1024x1024.jpg?v=1585693247",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-PocketTeeLongSleeve-Natural_1024x1024.jpg?v=1585693247",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M-PocketTeeLongSleeve-Black_1024x1024.jpg?v=1585693247",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Pocket Tee Long Sleeve - Men's",
+    "price": "$44.00",
+    "shop": "shop_mens",
+    "ID": 16
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tech-shirt_black_12_49200049986_ocopy_1024x1024.jpg?v=1584135571",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tech-shirt_gray_11_49199556153_ocopy_1024x1024.jpg?v=1584135582",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/gray_20x20.png?v=14958903820372774743",
+        "color_name": "gray"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_tech-shirt_khaki_13_49200049306_ocopy_1024x1024.jpg?v=1584135620",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/khaki_20x20.png?v=10344708049747258102",
+        "color_name": "khaki"
+      }
+    ],
+    "name": "Tech Shirt - Short Sleeve - Men's",
+    "price": "$98.00",
+    "shop": "shop_mens",
+    "ID": 17
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49200252767_a1df51eced_o_copy_1024x1024.jpg?v=1587485120",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/mid-blue_20x20.png?v=7699618244237148786",
+        "color_name": "mid"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49199560963_d08bc7b6ed_o_copy_1024x1024.jpg?v=1587485111",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/warm-gray_20x20.png?v=7921705906535540531",
+        "color_name": "warm"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/m-field-shirt-ss-khaki_1024x1024.jpg?v=1587484917",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/khaki_20x20.png?v=10344708049747258102",
+        "color_name": "khaki"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/m-field-shirt-ss-olive_1024x1024.jpg?v=1587484917",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Field Shirt - Short Sleeve - Men's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 18
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/tech_shirt_long_sleeve_Charcoal_1024x1024.jpg?v=1589596252",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      }
+    ],
+    "name": "Tech Shirt - Long Sleeve - Men's",
+    "price": "$129.00",
+    "shop": "shop_mens",
+    "ID": 19
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mens_Mountain_Shorts_Brick_1024x1024.jpg?v=1585612360",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/brick_20x20.png?v=9509112210754717673",
+        "color_name": "brick"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_MountainShorts_Black_1024x1024.jpg?v=1585612360",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_MountainShorts_Navy_1024x1024.jpg?v=1585612360",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_MountainShorts_Khaki_1024x1024.jpg?v=1585612360",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/khaki_20x20.png?v=10344708049747258102",
+        "color_name": "khaki"
+      }
+    ],
+    "name": "Mountain Shorts - Men's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 20
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mens_Tech_Popover_Charcoal_1024x1024.jpg?v=1584321499",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_TechPopover_Black_1024x1024.jpg?v=1584321499",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Tech Popover - Men's",
+    "price": "$69.00",
+    "shop": "shop_mens",
+    "ID": 21
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mens_River_Shorts_Blue_1024x1024.jpg?v=1584321929",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mens_River_Shorts_Red_1024x1024.jpg?v=1584321929",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_RiverShorts_Mustard_1024x1024.jpg?v=1584321929",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/mustard_20x20.png?v=7336541798782955311",
+        "color_name": "mustard"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_RiverShorts_Black_1024x1024.jpg?v=1584321929",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_RiverShorts_Forest_1024x1024.jpg?v=1584321929",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/forest_20x20.png?v=15476721894222987257",
+        "color_name": "forest"
+      }
+    ],
+    "name": "River Shorts - Men's",
+    "price": "$79.00",
+    "shop": "shop_mens",
+    "ID": 22
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_hybridhoodie_gray_2_49199734703_o_copy_1024x1024.jpg?v=1583349890",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/gray_20x20.png?v=14958903820372774743",
+        "color_name": "gray"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_hybridhoodie_black_1_49200227641_o_copy_1024x1024.jpg?v=1583349900",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Hybrid Hoodie - Men's",
+    "price": "$129.00",
+    "shop": "shop_mens",
+    "ID": 23
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mens_Global_Shorts_Charcoal_1024x1024.jpg?v=1585148434",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mens_Global_Shorts_Brick_1024x1024.jpg?v=1585148434",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/brick_20x20.png?v=9509112210754717673",
+        "color_name": "brick"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_GlobalShorts_Navy_1024x1024.jpg?v=1584743085",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/M_GlobalShorts_Black_1024x1024.jpg?v=1584743085",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Global Shorts - Men's",
+    "price": "$59.00",
+    "shop": "shop_mens",
+    "ID": 24
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Sport-Socks-Blue_1024x1024.jpg?v=1583879718",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49200684822_59de1f3e8f_o_copy_1024x1024.jpg?v=1583879718",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/yellow_20x20.png?v=10942097217535543666",
+        "color_name": "yellow"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49200484181_2c44ebc819_o_copy_1024x1024.jpg?v=1583879718",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/white_20x20.png?v=10535641390193437276",
+        "color_name": "white"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49200484591_d3e54aca1d_o_copy_1024x1024.jpg?v=1583879718",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      }
+    ],
+    "name": "Sport Socks",
+    "price": "$15.00",
+    "shop": "shop_mens",
+    "ID": 25
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_teamtee_clay_2_49196127686_o_copy_1024x1024.jpg?v=1580942546",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/clay_20x20.png?v=8061366705750319442",
+        "color_name": "clay"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_teamtee_natural_1_49196326582_o_copy_1024x1024.jpg?v=1580942531",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      }
+    ],
+    "name": "Team Tee - Long Sleeve - Men's",
+    "price": "$44.00",
+    "shop": "shop_mens",
+    "ID": 26
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196334802_00a969fdae_o_copy_1024x1024.jpg?v=1583432634",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196135316_c7210a6cfb_o_copy_1024x1024.jpg?v=1583432634",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      }
+    ],
+    "name": "Moab Tee - Long Sleeve - Men's",
+    "price": "$44.00",
+    "shop": "shop_mens",
+    "ID": 27
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_climbertee_blue_2_49196337752_o_copy_1024x1024.jpg?v=1583429774",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_climbertee_natural_1_49196336617_o_copy_1024x1024.jpg?v=1583429774",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      }
+    ],
+    "name": "Climber Tee - Long Sleeve - Men's",
+    "price": "$44.00",
+    "shop": "shop_mens",
+    "ID": 28
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/mask-olive-rip-alt-1_1024x1024.jpg?v=1589576616",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive-ripstop-limited-edition_20x20.png?v=8930176231843775127",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/mask-black-alt-1_1024x1024.jpg?v=1589576616",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/mask-blue-alt-1_1024x1024.jpg?v=1589576616",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/royal_20x20.png?v=5836814067555357882",
+        "color_name": "royal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/mask-natural-alt-1_1024x1024.jpg?v=1589576616",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      }
+    ],
+    "name": "Face Mask",
+    "price": "$16.00",
+    "shop": "shop_mens",
+    "ID": 29
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49195624578_f1d2783175_o_copy_1024x1024.jpg?v=1582232371",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196124451_6693ecc01d_o_copy_1024x1024.jpg?v=1582232371",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      }
+    ],
+    "name": "Trad Tee - Men's",
+    "price": "$36.00",
+    "shop": "shop_mens",
+    "ID": 30
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196132591_4405c4f4bf_o_copy_1024x1024.jpg?v=1583431474",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196131986_76f27cf7c9_o_copy_1024x1024.jpg?v=1583431474",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196131361_8ce3d45256_o_copy_1024x1024.jpg?v=1583431474",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/clay_20x20.png?v=8061366705750319442",
+        "color_name": "clay"
+      }
+    ],
+    "name": "Sun Tee - Men's",
+    "price": "$36.00",
+    "shop": "shop_mens",
+    "ID": 31
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196144371_84bd2bb969_o_copy_1024x1024.jpg?v=1583427791",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural_20x20.png?v=14815884460497207512",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/49196143806_25b9255026_o_copy_1024x1024.jpg?v=1583427791",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Bikes Tee - Men's",
+    "price": "$36.00",
+    "shop": "shop_mens",
+    "ID": 32
+  }
+]
