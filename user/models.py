@@ -29,22 +29,6 @@ class User(AbstractUser):
         """
         return self._generate_jwt_token(self)
 
-    def get_full_name(self):
-        """
-        This method is required by Django for things like handling emails.
-        Typically this would be the user's first and last name. Since we do
-        not store the user's real name, we return their username instead.
-        """
-        return self.username
-
-    def get_short_name(self):
-        """
-        This method is required by Django for things like handling emails.
-        Typically, this would be the user's first name. Since we do not store
-        the user's real name, we return their username instead.
-        """
-        return self.username
-
     def _generate_jwt_token(self):
         deltaTime = datetime.now() + timedelta(days = 30)
         token = jwt.encode({

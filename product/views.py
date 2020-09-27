@@ -25,6 +25,7 @@ def ShopView(request, name):
 @decorators.api_view(('GET', ))
 @decorators.permission_classes([permissions.AllowAny])
 def ShopPage(request, name, page):
+    
     shop = Shop.objects.get(name = name)
     products = Product.objects.filter(shop = shop.id)
     serializer = ProductSerializer(products[(page-1)*10:(page)*10], many = True)
@@ -36,6 +37,7 @@ def ShopPage(request, name, page):
     return Response(res)
 
 class ProductDetailView(APIView):
+    permission_classes = [permissions.AllowAny]
     def get(self, request, pk, *args, **kwargs):
         product = self.get_object(pk)
         serializer = ProductSerializer(instance = product)
@@ -62,6 +64,7 @@ class ProductDetailView(APIView):
 @decorators.api_view(('GET', ))
 @decorators.permission_classes([permissions.AllowAny])
 def SearchView(request):
+    
     query = request.GET.get('name')
     res = Product.objects.filter(name__contains = query)
     serializer = ProductSerializer(res, many= True)

@@ -38,12 +38,42 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'rest_framework.authtoken',
     'corsheaders',
     'product',
     'user',
-    'reset_migrations'
+    'bill',
+    'reset_migrations',
+    
+    'rest_framework.authtoken', #JWT Authentication
+    #social authenticate
+    'oauth2_provider',
+    'social_django',
+    'rest_framework_social_oauth2', #Django social authentication
 ]
+
+SOCIAL_AUTH_FACEBOOK_KEY = '669828326988343' #app id
+SOCIAL_AUTH_FACEBOOK_SECRET = 'ea3e07f053918219524599d65e211561' #client secret
+SOCIAL_AUTH_FACEBOOK_SCOPE = ['email', ]  # optional
+SOCIAL_AUTH_FACEBOOK_PROFILE_EXTRA_PARAMS = {'fields': 'name, email, first_name'}  # optional
+AUTHENTICATION_BACKENDS = (
+     # Facebook OAuth2
+    'social_core.backends.facebook.FacebookAppOAuth2',
+    'social_core.backends.facebook.FacebookOAuth2',
+
+    'rest_framework_social_oauth2.backends.DjangoOAuth2',
+    'django.contrib.auth.backends.ModelBackend',
+)
+SOCIAL_AUTH_PIPELINE = (
+'social_core.pipeline.social_auth.social_details',
+'social_core.pipeline.social_auth.social_uid',
+'social_core.pipeline.social_auth.auth_allowed',
+'social_core.pipeline.social_auth.social_user',
+'social_core.pipeline.user.get_username',
+'social_core.pipeline.social_auth.associate_by_email',
+'social_core.pipeline.user.create_user',
+'social_core.pipeline.social_auth.associate_user',
+'social_core.pipeline.social_auth.load_extra_data',
+'social_core.pipeline.user.user_details', )
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': (
         'rest_framework.permissions.IsAuthenticated',
@@ -53,6 +83,9 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.TokenAuthentication',
         'rest_framework.authentication.SessionAuthentication',
         'rest_framework.authentication.BasicAuthentication',
+
+        'oauth2_provider.contrib.rest_framework.OAuth2Authentication',
+        'rest_framework_social_oauth2.authentication.SocialAuthentication',
     ),
 }
 SIMPLE_JWT = {
@@ -99,6 +132,9 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+
+                'social_django.context_processors.backends',
+                'social_django.context_processors.login_redirect',
             ],
         },
     },

@@ -1,0 +1,166 @@
+{
+    "username": "huubinh49",
+    "email": "hocchui0409@gmail.com",
+    "bills": [
+        {
+            "id": 1,
+            "orders": [
+                {
+                    "id": 1,
+                    "shop": "shop_news",
+                    "swatches": [
+                        {
+                            "id": 1,
+                            "name": "black",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_black_2_49229206806_ocopy_1024x1024.jpg?v=1585149320",
+                            "product": 1
+                        },
+                        {
+                            "id": 2,
+                            "name": "olive",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/olive-navy_20x20.png?v=10043498136048994580",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_olivenavy_2_49229204366_ocopy_1024x1024.jpg?v=1585149320",
+                            "product": 1
+                        },
+                        {
+                            "id": 3,
+                            "name": "blue",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue-black_20x20.png?v=13250750035885891285",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_blueblack_2_49229433202_ocopy_1024x1024.jpg?v=1585149320",
+                            "product": 1
+                        },
+                        {
+                            "id": 4,
+                            "name": "silver",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/silver-charcoal_20x20.png?v=2855590519051121765",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_silvercharcoal_5_49229203481_ocopy_1024x1024.jpg?v=1585149320",
+                            "product": 1
+                        },
+                        {
+                            "id": 5,
+                            "name": "navy",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/navy-red_20x20.png?v=5560284584146301598",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_navyred_1_49229432552_ocopy_1024x1024.jpg?v=1585149320",
+                            "product": 1
+                        }
+                    ],
+                    "name": "Standard Pack",
+                    "price": 99.0
+                },
+                {
+                    "id": 2,
+                    "shop": "shop_news",
+                    "swatches": [
+                        {
+                            "id": 6,
+                            "name": "green",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/green_20x20.png?v=7235266945233531451",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_green_3_49200420402_ocopy_1024x1024.jpg?v=1584160985",
+                            "product": 2
+                        },
+                        {
+                            "id": 7,
+                            "name": "black",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_black_1_49199734343_ocopy_1024x1024.jpg?v=1585149405",
+                            "product": 2
+                        },
+                        {
+                            "id": 8,
+                            "name": "blue",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue_20x20.png?v=16043496334770696820",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_blue_4_49200226606_ocopy_1024x1024.jpg?v=1585149405",
+                            "product": 2
+                        },
+                        {
+                            "id": 9,
+                            "name": "gray",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/gray_20x20.png?v=14958903820372774743",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_windanoraksport_gray_2_49200420902_ocopy_1024x1024.jpg?v=1583962788",
+                            "product": 2
+                        }
+                    ],
+                    "name": "Wind Anorak - Sport - Men's",
+                    "price": 149.0
+                },
+                {
+                    "id": 3,
+                    "shop": "shop_news",
+                    "swatches": [
+                        {
+                            "id": 10,
+                            "name": "natural",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/natural-floral_20x20.png?v=12620997631436447690",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/49200205407_879e08050c_o_copy_1024x1024.jpg?v=1583770267",
+                            "product": 3
+                        },
+                        {
+                            "id": 11,
+                            "name": "blue",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/blue-floral_20x20.png?v=9645302082097470754",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/49200205407_879e08050c_o_bluefloral_1024x1024.jpg?v=1583779165",
+                            "product": 3
+                        }
+                    ],
+                    "name": "Tour Shirt - Floral - Women's",
+                    "price": 69.0
+                },
+                {
+                    "id": 5,
+                    "shop": "shop_news",
+                    "swatches": [
+                        {
+                            "id": 15,
+                            "name": "purple",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/purple_20x20.png?v=11377751011528770794",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-purple-1_1024x1024.jpg?v=1588374125",
+                            "product": 5
+                        },
+                        {
+                            "id": 16,
+                            "name": "dark",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/dark-khaki_20x20.png?v=16510361198170152500",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-darkkhaki-1_1024x1024.jpg?v=1588374138",
+                            "product": 5
+                        },
+                        {
+                            "id": 17,
+                            "name": "black",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/black_20x20.png?v=2058593223305495546",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-black-1_1024x1024.jpg?v=1588374147",
+                            "product": 5
+                        },
+                        {
+                            "id": 18,
+                            "name": "silver",
+                            "color_url": "//cdn.shopify.com/s/files/1/0277/0693/t/115/assets/silver_20x20.png?v=13488156119997755210",
+                            "product_img_url": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-silver-1_1024x1024.jpg?v=1588374157",
+                            "product": 5
+                        }
+                    ],
+                    "name": "Ultralight Jacket - Women's",
+                    "price": 89.0
+                }
+            ],
+            "owner": {
+                "id": 1,
+                "last_login": "2020-09-22T13:41:56.584413Z",
+                "first_name": "",
+                "last_name": "",
+                "is_active": true,
+                "date_joined": "2020-09-20T12:54:33.081820Z",
+                "email": "hocchui0409@gmail.com",
+                "password": "pbkdf2_sha256$180000$RwOja8tyuaQq$IBOlzkkNILEBMIeGS5raLryhQk5hlKfNF/4/19VkgEY=",
+                "username": "huubinh49",
+                "is_staff": true,
+                "is_superuser": true,
+                "groups": [],
+                "user_permissions": []
+            },
+            "orderDate": "2020-09-22T13:42:42.491315Z",
+            "address": "15 district",
+            "price": 15000.0
+        }
+    ]
+}

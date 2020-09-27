@@ -30,4 +30,9 @@ class UserCreateSerializer(serializers.ModelSerializer):
              except Exception as e:
                  return e
 
+class UserSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = "__all__"
+
     
