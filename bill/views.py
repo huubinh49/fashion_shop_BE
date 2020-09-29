@@ -30,7 +30,6 @@ class BillView(APIView):
         address = request.data['address']
         bill = Bill(owner = owner, address = address)
         products = json.loads(request.data['products'])
-        print(products[0])
         price = 0
         bill.price = price
         bill.save()

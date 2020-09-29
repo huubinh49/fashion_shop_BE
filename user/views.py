@@ -45,13 +45,14 @@ class SocialView(ConvertTokenView):
         response = super(SocialView, self).post(request, args, kwargs)
         response.data['email'] = request.POST['email']
         response.data['username'] = "{0} {1}".format(request.POST['first_name'], request.POST['last_name'])
-
+        print(response.data['username'])
         try:
             user = User.objects.get(email = request.POST['email'])
         except User.DoesNotExist:
-            user = User(email = request.POST['email'], username = response.data['username'])
+            user = User(email = request.POST['email'], username = response.data['username'].encode('utf-8'))
             password = User.objects.make_random_password()
             user.set_password(password)
+            user.save()
         
         refresh_token = RefreshToken.for_user(user)
         response.data['access_token']=  str(refresh_token.access_token)
