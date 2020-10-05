@@ -9,8 +9,13 @@ https://docs.djangoproject.com/en/3.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.0/ref/settings/
 """
-
 import os
+from django.core.wsgi import get_wsgi_application
+from whitenoise.django import DjangoWhiteNoise
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'topodesignsRestAPI.settings')
+application = get_wsgi_application()
+application = DjangoWhiteNoise(application)
+
 from datetime import timedelta
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -51,6 +56,8 @@ INSTALLED_APPS = [
     'social_django',
     'rest_framework_social_oauth2',#Django social authentication
     'gunicorn',
+    'whitenoise.runserver_nostatic',
+    'django.contrib.staticfiles',
 ]
 
 SOCIAL_AUTH_FACEBOOK_KEY = '669828326988343' #app id
@@ -216,11 +223,7 @@ import dj_database_url
 prod_db  =  dj_database_url.config(conn_max_age=800)
 DATABASES['default'].update(prod_db)
 
-from django.core.wsgi import get_wsgi_application
 import django_heroku
-from whitenoise.django import DjangoWhiteNoise
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'topodesignsRestAPI.settings')
-application = get_wsgi_application()
-application = DjangoWhiteNoise(application)
 django_heroku.settings(locals())
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
