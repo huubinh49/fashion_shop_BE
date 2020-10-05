@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'm1@0t0zz#a&rq)=zxmu%gza%#@)@r7n#*1vv!jwfxi3q!99t(3'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = FALSE
 
 ALLOWED_HOSTS = ['*']
 
@@ -126,6 +126,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 ROOT_URLCONF = 'topodesignsRestAPI.urls'
@@ -221,4 +223,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'topodesignsRestAPI.settings')
 application = get_wsgi_application()
 application = DjangoWhiteNoise(application)
 django_heroku.settings(locals())
-STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
