@@ -20,10 +20,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'm1@0t0zz#a&rq)=zxmu%gza%#@)@r7n#*1vv!jwfxi3q!99t(3'
+DEBUG = False
+ALLOWED_HOSTS =  ['fashionshop-api.herokuapp.com', '.herokuapp.com']
+SECRET_KEY = os.environ.get('SECRET_KEY', 'SOME+RANDOM+KEY(z9+3vnm(jb0u@&w68t#5_e8s9-lbfhv-')  
+EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -210,9 +212,11 @@ AUTH_USER_MODEL = 'user.User'
 
 
 #
-import dj_database_url 
-prod_db  =  dj_database_url.config(conn_max_age=800)
-DATABASES['default'].update(prod_db)
+
+import dj_database_url
+db_from_env = dj_database_url.config()
+DATABASES['default'].update(db_from_env)
+DATABASES['default']['CONN_MAX_AGE'] = 500
 
 import django_heroku
 django_heroku.settings(locals())
