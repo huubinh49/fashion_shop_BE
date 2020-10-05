@@ -15,6 +15,9 @@ from datetime import timedelta
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+import django_heroku
+
+django_heroku.settings(locals())
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
@@ -48,7 +51,8 @@ INSTALLED_APPS = [
     #social authenticate
     'oauth2_provider',
     'social_django',
-    'rest_framework_social_oauth2', #Django social authentication
+    'rest_framework_social_oauth2',#Django social authentication
+    'gunicorn',
 ]
 
 SOCIAL_AUTH_FACEBOOK_KEY = '669828326988343' #app id
