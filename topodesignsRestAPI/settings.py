@@ -214,7 +214,7 @@ import dj_database_url
 prod_db  =  dj_database_url.config(conn_max_age=800)
 DATABASES['default'].update(prod_db)
 
-
+from django.core.wsgi import get_wsgi_application
 import django_heroku
 from whitenoise.django import DjangoWhiteNoise
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'topodesignsRestAPI.settings')
