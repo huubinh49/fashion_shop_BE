@@ -12,6 +12,33 @@ from django.conf import settings
 # Create your views here.
 from rest_framework_social_oauth2.views import ConvertTokenView
 
+
+def vi_slug(data):
+    result_data = ""
+    data = data.lower()
+    
+    vietnamese_map = {
+        'o': 'o', 'ò': 'o', 'ó': 'o', 'ỏ': 'o', 'õ': 'o', 'ọ': 'o',
+        'ơ': 'o', 'ờ': 'o', 'ớ': 'o', 'ở': 'o', 'ỡ': 'o', 'ợ': 'o',
+        'ô': 'o', 'ồ': 'o', 'ố': 'o', 'ổ': 'o', 'ỗ': 'o', 'ộ': 'o',
+
+        'à': 'a', 'á': 'a', 'á': 'a', 'ả': 'a', 'ã': 'a', 'ạ': 'a',
+        'ă': 'a', 'ắ': 'a', 'ằ': 'a', 'ẳ': 'a', 'ẵ': 'a', 'ạ': 'a',
+        'â': 'a', 'ầ': 'a', 'ấ': 'a', 'ậ': 'a', 'ẫ': 'a', 'ẩ': 'a',
+
+        'đ': 'd', 'Đ': 'd',
+
+        'è': 'e', 'é': 'e', 'ẻ': 'e', 'ẽ': 'e', 'ẹ': 'e',
+        'ê': 'e', 'ề': 'e', 'ế': 'e', 'ể': 'e', 'ễ': 'e', 'ệ': 'e',
+
+        'ì': 'i', 'í': 'i', 'ỉ': 'i', 'ĩ': 'i', 'ị': 'i',
+        'ư': 'u', 'ừ': 'u', 'ứ': 'u', 'ử': 'ữ', 'ữ': 'u', 'ự': 'u',
+        'ý': 'y', 'ỳ': 'y', 'ỷ': 'y', 'ỹ': 'y', 'ỵ': 'y',
+    }
+    for c in data:
+        result_data += vietnamese_map.get(c, c);
+    return " ".join(list(map(lambda x : x.capitalize(), result_data.split(" "))))
+
 @decorators.api_view(['POST'])
 @decorators.permission_classes([permissions.AllowAny])
 def signup(request):
@@ -49,7 +76,7 @@ class SocialView(ConvertTokenView):
         try:
             user = User.objects.get(email = request.POST['email'])
         except User.DoesNotExist:
-            user = User(email = request.POST['email'], username = response.data['username'].encode('utf-8'))
+            user = User(email = request.POST['email'], username = vi_slug(response.data['username']))
             password = User.objects.make_random_password()
             user.set_password(password)
             user.save()
