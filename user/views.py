@@ -3,13 +3,14 @@ from rest_framework.response import Response
 from rest_framework import status, decorators, permissions
 from rest_framework.views import APIView
 from rest_framework_simplejwt.tokens import RefreshToken
+
 from .serializers import UserCreateSerializer
 from bill.serializers import BillSerializer
 from bill.models import Bill
 from .models import User
+
 import jwt
 from django.conf import settings
-# Create your views here.
 from rest_framework_social_oauth2.views import ConvertTokenView
 
 
