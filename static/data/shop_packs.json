@@ -1,0 +1,1202 @@
+[
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Green_1024x1024.jpg?v=1589837674",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Coral_1024x1024.jpg?v=1589837674",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/coral_20x20.png?v=6365286904367587224",
+        "color_name": "coral"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Black_1024x1024.jpg?v=1589837674",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Blue_1024x1024.jpg?v=1585152536",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Red_1024x1024.jpg?v=1583342683",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Yellow_1024x1024.jpg?v=1583342683",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/yellow_20x20.png?v=10942097217535543666",
+        "color_name": "yellow"
+      }
+    ],
+    "name": "Rover Pack - Mini",
+    "price": "$69.00",
+    "shop": "shop_packs",
+    "ID": 0
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_trailshortssport_black_1_49195220448_o_copy_1024x1024.jpg?v=1590601572",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_trailshortssport_blue_1_49195219173_o_copy_1024x1024.jpg?v=1590601572",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_m_trailshortssport_red_1_49195916727_o_copy_1024x1024.jpg?v=1590601572",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      }
+    ],
+    "name": "Trail Shorts - Sport - Men's",
+    "price": "$59.00",
+    "shop": "shop_packs",
+    "ID": 1
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-purple-1_1024x1024.jpg?v=1588374125",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/purple_20x20.png?v=11377751011528770794",
+        "color_name": "purple"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-darkkhaki-1_1024x1024.jpg?v=1588374138",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/dark-khaki_20x20.png?v=16510361198170152500",
+        "color_name": "dark"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-black-1_1024x1024.jpg?v=1588374147",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/W-Ultralight-silver-1_1024x1024.jpg?v=1588374157",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver_20x20.png?v=13488156119997755210",
+        "color_name": "silver"
+      }
+    ],
+    "name": "Ultralight Jacket - Women's",
+    "price": "$89.00",
+    "shop": "shop_packs",
+    "ID": 2
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Taco-bag-turquoise_1024x1024.jpg?v=1582830366",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/turquoise_20x20.png?v=16295704650981922782",
+        "color_name": "turquoise"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Taco-bag-red_1024x1024.jpg?v=1582830376",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Taco-bag-silver_1024x1024.jpg?v=1582830386",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver_20x20.png?v=13488156119997755210",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Taco-bag-olive_1024x1024.jpg?v=1582830397",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Taco Bag",
+    "price": "$19.00",
+    "shop": "shop_packs",
+    "ID": 3
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Cosmos-Pack-1_1024x1024.jpg?v=1590519971",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/white-turquoise_20x20.png?v=3950682555787858529",
+        "color_name": "white"
+      }
+    ],
+    "name": "Topo Designs x So iLL Cosmos Pack",
+    "price": "$105.00",
+    "shop": "shop_packs",
+    "ID": 4
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/soill-accessory-bag-1_1024x1024.jpg?v=1590518458",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/turquoise_20x20.png?v=16295704650981922782",
+        "color_name": "turquoise"
+      }
+    ],
+    "name": "Topo Designs x So iLL Accessory Bag",
+    "price": "$19.00",
+    "shop": "shop_packs",
+    "ID": 5
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/soill-chalk-bucket-1_1024x1024.jpg?v=1590518413",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/white-turquoise_20x20.png?v=3950682555787858529",
+        "color_name": "white"
+      }
+    ],
+    "name": "Topo Designs x So iLL Chalk Bucket",
+    "price": "$49.00",
+    "shop": "shop_packs",
+    "ID": 6
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/f19_pr_topodesignsxdanner_mountainpack_1_49030762012_ocopy_1024x1024.jpg?v=1586452248",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/pool-blue-purple_20x20.png?v=14809499481847604785",
+        "color_name": "pool"
+      }
+    ],
+    "name": "Topo Designs x Danner Mountain Pack",
+    "price": "$189.00",
+    "shop": "shop_packs",
+    "ID": 7
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_black_2_49229206806_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_olivenavy_2_49229204366_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive-navy_20x20.png?v=10043498136048994580",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_blueblack_2_49229433202_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black_20x20.png?v=13250750035885891285",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_silvercharcoal_5_49229203481_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver-charcoal_20x20.png?v=2855590519051121765",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_standardpack_navyred_1_49229432552_ocopy_1024x1024.jpg?v=1585149320",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-red_20x20.png?v=5560284584146301598",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Standard Pack",
+    "price": "$99.00",
+    "shop": "shop_packs",
+    "ID": 8
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Navy-Red-1_1024x1024.jpg?v=1590601636",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-red_20x20.png?v=5560284584146301598",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Black-Clay-1_611bbb57-ede8-4599-a191-93b5fb4f9109_1024x1024.jpg?v=1590601636",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black-clay_20x20.png?v=14096549708193326024",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Madewell-RoverPack-ThreeQuarter_1024x1024.jpg?v=1590601636",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/turquoise-copper-washed_20x20.png?v=3822438350867328200",
+        "color_name": "turquoise"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Black-1_1024x1024.jpg?v=1590601636",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Navy-1_bd25e853-e86d-4a7d-8472-bb28727d645f_1024x1024.jpg?v=1590601636",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Silver-Charcoal-1_1024x1024.jpg?v=1590601636",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver-charcoal_20x20.png?v=2855590519051121765",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Olive-Navy-1_1024x1024.jpg?v=1590601636",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive-navy_20x20.png?v=10043498136048994580",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Turquoise-Red-1_1024x1024.jpg?v=1588867903",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/turquoise-red_20x20.png?v=15095137234053190788",
+        "color_name": "turquoise"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Yellow-Black-1_1024x1024.jpg?v=1588867903",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/yellow-black_20x20.png?v=5784313538918791042",
+        "color_name": "yellow"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Blue-Black-1_1024x1024.jpg?v=1588867903",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black_20x20.png?v=13250750035885891285",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Coral-Navy-1_1024x1024.jpg?v=1588867903",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/coral-navy_20x20.png?v=13727953849967927959",
+        "color_name": "coral"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Classic-Olive-1_1024x1024.jpg?v=1588867903",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Rover Pack - Classic",
+    "price": "$99.00",
+    "shop": "shop_packs",
+    "ID": 9
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Premium-Black-1_1024x1024.jpg?v=1581376307",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/premium-black_20x20.png?v=8727630357246941624",
+        "color_name": "premium"
+      }
+    ],
+    "name": "Rover Pack - Premium",
+    "price": "$169.00",
+    "shop": "shop_packs",
+    "ID": 10
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/commuter_briefcase_heritage_duck_brown_leather_e5dc96dd-1ef5-45b7-b6a9-3f348be6b584_1024x1024.jpg?v=1590771502",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/duck-brown-dark-brown-leather_20x20.png?v=11054795992049097163",
+        "color_name": "duck"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/commuter_briefcase_2_1024x1024.jpg?v=1590771502",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/charcoal-black-leather_20x20.png?v=11185766564805388587",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-commuter-briefcase-2_1024x1024.jpg?v=1590771502",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black-black-leather_20x20.png?v=8476182986046690549",
+        "color_name": "ballistic"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/commuter_briefcase_heritage_forest_dark_brown_leather_1024x1024.jpg?v=1590771502",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/forest-dark-brown-leather_20x20.png?v=17748190181608816214",
+        "color_name": "forest"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-commuter-briefcase-1_1024x1024.jpg?v=1590771502",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-brown-leather_20x20.png?v=2190316238914472741",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Commuter Briefcase",
+    "price": "$189.00",
+    "shop": "shop_packs",
+    "ID": 11
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Daypack_Duck_Brown_1024x1024.jpg?v=1584053122",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/duck-brown-dark-brown-leather_20x20.png?v=11054795992049097163",
+        "color_name": "duck"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Daypack_Forest_1024x1024.jpg?v=1584053122",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/forest-dark-brown-leather_20x20.png?v=17748190181608816214",
+        "color_name": "forest"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-daypack-5_900x_1e90bbaf-df1c-4d3a-81ee-886bdf048928_1024x1024.jpg?v=1585000912",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-brown-leather_20x20.png?v=2190316238914472741",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Daypack-Natural-Khaki-Leather_1024x1024.jpg?v=1585000912",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/natural-khaki-leather_20x20.png?v=776795093874318642",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-daypack-ballistic-black-black-leather_1024x1024.jpg?v=1585000912",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black-black-leather_20x20.png?v=8476182986046690549",
+        "color_name": "ballistic"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Daypack_Black_1024x1024.jpg?v=1585000912",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-daypack-3_1024x1024.jpg?v=1585000912",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-daypack-4_1024x1024.jpg?v=1585000912",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Daypack",
+    "price": "$149.00",
+    "shop": "shop_packs",
+    "ID": 12
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Tech-Olive-1_1024x1024.jpg?v=1590601671",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Tech-Charcoal-1_1024x1024.jpg?v=1590601671",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Tech-Black-1_1024x1024.jpg?v=1590601671",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Tech-Navy-1_1024x1024.jpg?v=1582231710",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Rover Pack - Tech",
+    "price": "$129.00",
+    "shop": "shop_packs",
+    "ID": 13
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Core-Pack-Blue_1024x1024.jpg?v=1573231114",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/core-gray-1_1024x1024.jpg?v=1579215268",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/core-red-1_1024x1024.jpg?v=1579215268",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/core-olive-1_1024x1024.jpg?v=1572298328",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/core-black-1_1024x1024.jpg?v=1571411097",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Core Pack",
+    "price": "$129.00",
+    "shop": "shop_packs",
+    "ID": 14
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Travel-Bag-Roller-35L-Olive-1copy_1024x1024.jpg?v=1583953900",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Travel-Bag-Roller-35L-Navy-1copy_1024x1024.jpg?v=1583953900",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Travel-Bag-Roller-35L-Black-1copy_1024x1024.jpg?v=1583953900",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black_20x20.png?v=2058593223305495546",
+        "color_name": "ballistic"
+      }
+    ],
+    "name": "Travel Bag Roller",
+    "price": "$289.00",
+    "shop": "shop_packs",
+    "ID": 15
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/39917224385_58626f328a_o_1024x1024.jpg?v=1583364946",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver_20x20.png?v=13488156119997755210",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/40103106774_6fb81eb8e7_o_1024x1024.jpg?v=1583364946",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/40770255012_4f8128098d_o_1024x1024.jpg?v=1583364946",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/mountain_pack_-_black_-_alt_1024x1024.jpg?v=1583364946",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/40770258122_030443e9ea_o_1024x1024.jpg?v=1583364946",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      }
+    ],
+    "name": "Mountain Pack",
+    "price": "$169.00",
+    "shop": "shop_packs",
+    "ID": 16
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Green_1024x1024.jpg?v=1589837674",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Coral_1024x1024.jpg?v=1589837674",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/coral_20x20.png?v=6365286904367587224",
+        "color_name": "coral"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Black_1024x1024.jpg?v=1589837674",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Blue_1024x1024.jpg?v=1585152536",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Red_1024x1024.jpg?v=1583342683",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Mini-Yellow_1024x1024.jpg?v=1583342683",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/yellow_20x20.png?v=10942097217535543666",
+        "color_name": "yellow"
+      }
+    ],
+    "name": "Rover Pack - Mini",
+    "price": "$69.00",
+    "shop": "shop_packs",
+    "ID": 17
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/40l-olive-alt_1024x1024.jpg?v=1583364606",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/40l-navy-alt_1024x1024.jpg?v=1583364606",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/40l-black-alt_1024x1024.jpg?v=1583167249",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black_20x20.png?v=2058593223305495546",
+        "color_name": "ballistic"
+      }
+    ],
+    "name": "Travel Bag - 40L",
+    "price": "$229.00",
+    "shop": "shop_packs",
+    "ID": 18
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase_BlueBlack-Ripstop_1024x1024.jpeg?v=1583365293",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black-ripstop_20x20.png?v=3690094392071692428",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase_RedBlack-Ripstop_1024x1024.jpeg?v=1583365293",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red-black-ripstop_20x20.png?v=1241848790707451825",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase_Charcoal_9e27ef69-df35-405a-8787-4c5f212cde69_1024x1024.jpg?v=1583365293",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase_BallisticBlack_1024x1024.jpg?v=1583365293",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black_20x20.png?v=2058593223305495546",
+        "color_name": "ballistic"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase_Olive_1a58c58d-b4bd-4aa6-a24d-8b0adcc03172_1024x1024.jpg?v=1583365293",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase_Navy_1024x1024.jpg?v=1583365293",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Global Briefcase",
+    "price": "$129.00",
+    "shop": "shop_packs",
+    "ID": 19
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/klettersack_duck_brown_1024x1024.jpg?v=1586794707",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/duck-brown-dark-brown-leather_20x20.png?v=11054795992049097163",
+        "color_name": "duck"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/klettersack_forest_1024x1024.jpg?v=1586794707",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/forest-dark-brown-leather_20x20.png?v=17748190181608816214",
+        "color_name": "forest"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-klettersack-12_1024x1024.jpg?v=1582222699",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-brown-leather_20x20.png?v=2190316238914472741",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Klettersack-Natural-Khaki-Leather_1024x1024.jpg?v=1583270396",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/natural-canvas-khaki-leather_20x20.png?v=776795093874318642",
+        "color_name": "natural"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/klettersack_black_1024x1024.jpg?v=1583794324",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-klettersack-1_2048x2048_8f14da8c-d451-4618-8ec9-7636ccd4ef97_1024x1024.jpg?v=1583794324",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/klettersack_navy_1024x1024.jpg?v=1583794324",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/klettersack_ballistic_black_1024x1024.jpg?v=1583862524",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black-black-leather_20x20.png?v=8476182986046690549",
+        "color_name": "ballistic"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-klettersack-olive_900x_64d675db-ea1c-4e18-9707-399d7e526a52_1024x1024.jpg?v=1583862524",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Klettersack",
+    "price": "$169.00",
+    "shop": "shop_packs",
+    "ID": 20
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/micro_blueblack_1024x1024.jpg?v=1584985972",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black-ripstop_20x20.png?v=3690094392071692428",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/micro_yellow_1024x1024.jpg?v=1585149829",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/yellow_20x20.png?v=10942097217535543666",
+        "color_name": "yellow"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/micro_redblack_1024x1024.jpg?v=1585149829",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red-black-ripstop_20x20.png?v=1241848790707451825",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/micro_green_1024x1024.jpg?v=1585149829",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Accessory_Bags_Navy_Micro_1024x1024.jpg?v=1584985972",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Accessory_Bags_Black_Micro_1024x1024.jpg?v=1584985972",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Accessory_Bags_Olive_Micro_1024x1024.jpg?v=1584985972",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Accessory Bags",
+    "price": "$15.00",
+    "shop": "shop_packs",
+    "ID": 21
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_travelbagroller_35l_premium_4_49589221521_o_copy_1024x1024.jpg?v=1582762218",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/premium-black_20x20.png?v=8727630357246941624",
+        "color_name": "premium"
+      }
+    ],
+    "name": "Travel Bag Roller - Premium",
+    "price": "$349.00",
+    "shop": "shop_packs",
+    "ID": 22
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Heritage-Forest-Dark-Brown-Leather-1_1024x1024.jpg?v=1590601701",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/forest-dark-brown-leather_20x20.png?v=17748190181608816214",
+        "color_name": "forest"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Heritage-Navy-Brown-Leather-1_1024x1024.jpg?v=1590601701",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-brown-leather_20x20.png?v=2190316238914472741",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Heritage-Duck-Brown-Dark-Brown-Leather-1_1024x1024.jpg?v=1585005830",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/duck-brown-dark-brown-leather_20x20.png?v=11054795992049097163",
+        "color_name": "duck"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Rover-Pack-Heritage-Ballistic-Black-Black-Leather-1_1024x1024.jpg?v=1585005830",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black-black-leather_20x20.png?v=8476182986046690549",
+        "color_name": "ballistic"
+      }
+    ],
+    "name": "Rover Pack - Heritage",
+    "price": "$159.00",
+    "shop": "shop_packs",
+    "ID": 23
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_coors_quickpack_12_49641584117_o_copy_1024x1024.jpg?v=1583854463",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-white-ripstop_20x20.png?v=7706646027033666955",
+        "color_name": "blue"
+      }
+    ],
+    "name": "Topo Designs x Coors Light Quick Pack",
+    "price": "$79.00",
+    "shop": "shop_packs",
+    "ID": 24
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/quick_pack_redblackripstop_1024x1024.jpg?v=1589992120",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red-black-ripstop_20x20.png?v=1241848790707451825",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/quick_pack_silverwhite_1024x1024.jpg?v=1589992120",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver-white_20x20.png?v=16001148205738656033",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/quick_pack_coralnavy_1024x1024.jpg?v=1589992120",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/coral-navy_20x20.png?v=13727953849967927959",
+        "color_name": "coral"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/quick_pack_blueblackripstop_1024x1024.jpg?v=1589992120",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black-ripstop_20x20.png?v=3690094392071692428",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/quick_pack_olivenavy_vietnam_1024x1024.jpg?v=1585953700",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive-black_20x20.png?v=11207568399852190756",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/quick_pack_black_2048x2048_c5ecded2-33f8-4f4a-98bb-c6e3c41587db_1024x1024.jpg?v=1585953700",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Quick Pack",
+    "price": "$69.00",
+    "shop": "shop_packs",
+    "ID": 25
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Y_Pack_Blue_Black_1024x1024.jpg?v=1584321719",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black_20x20.png?v=13250750035885891285",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Y_Pack_Red_1024x1024.jpg?v=1584321719",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Y_Pack_Green_1024x1024.jpg?v=1584321719",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F17_Y_Pack_Black_1024x1024.jpg?v=1584321719",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F17_Y_Pack_Navy_1024x1024.jpg?v=1584321719",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F17_Y_Pack_Olive_1024x1024.jpg?v=1584321719",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Y-Pack",
+    "price": "$79.00",
+    "shop": "shop_packs",
+    "ID": 26
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Madewell-DoppKit-ThreeQuarter_1024x1024.jpg?v=1588870172",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/turquoise-copper-washed_20x20.png?v=3822438350867328200",
+        "color_name": "turquoise"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Green_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Yellow_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/yellow_20x20.png?v=10942097217535543666",
+        "color_name": "yellow"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Red_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Blue_Black_Ripstop_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black-ripstop_20x20.png?v=3690094392071692428",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Red_Black_Ripstop_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red-black-ripstop_20x20.png?v=1241848790707451825",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Black_S20_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Olive_S20_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Navy_S20_1024x1024.jpg?v=1588867505",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Dopp Kit",
+    "price": "$34.00",
+    "shop": "shop_packs",
+    "ID": 27
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_coors_lightpack_12_49641584732_o_copy_1024x1024.jpg?v=1583854641",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red-black-ripstop_20x20.png?v=1241848790707451825",
+        "color_name": "red"
+      }
+    ],
+    "name": "Topo Designs x Coors Light Light Pack",
+    "price": "$79.00",
+    "shop": "shop_packs",
+    "ID": 28
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/sandstorm-camera-cube_1024x1024.jpg?v=1588081374",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/sandstone-turquoise_20x20.png?v=11187527486456732746",
+        "color_name": "sandstone"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Camera_Cube_Navy_Yellow_S20_1024x1024.jpg?v=1588081374",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-yellow_20x20.png?v=12358473151633826259",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Camera_Cube_Black_S20_1024x1024.jpg?v=1588081374",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Camera_Cube_Olive_Black_S20_1024x1024.jpg?v=1588081374",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive-black_20x20.png?v=11207568399852190756",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Camera Cube",
+    "price": "$59.00",
+    "shop": "shop_packs",
+    "ID": 29
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mini_Quick_Pack_Black_S20_1024x1024.jpg?v=1585148305",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mini_Quick_Pack_Green_S20_1024x1024.jpg?v=1585148305",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/green_20x20.png?v=7235266945233531451",
+        "color_name": "green"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mini_Quick_Pack_Coral_S20_1024x1024.jpg?v=1585148305",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/coral_20x20.png?v=6365286904367587224",
+        "color_name": "coral"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mini_Quick_Pack_Red_S20_1024x1024.jpg?v=1585148305",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mini-Quick-Pack-Clay-Turquoise_1024x1024.jpg?v=1585148305",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/clay-turquoise_20x20.png?v=16252939326088682151",
+        "color_name": "clay"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mini-Quick-Pack-White-Silver_1024x1024.jpg?v=1585148305",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver-white_20x20.png?v=16001148205738656033",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Mini-Quick-Pack-Black-Blue_1024x1024.jpg?v=1585148305",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black-blue_20x20.png?v=10410621817908936161",
+        "color_name": "black"
+      }
+    ],
+    "name": "Mini Quick Pack",
+    "price": "$49.00",
+    "shop": "shop_packs",
+    "ID": 30
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp_Kit_Heritage_Duck_Brown_Dark_Brown_Leather_1024x1024.jpg?v=1584289366",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/duck-brown-dark-brown-leather_20x20.png?v=11054795992049097163",
+        "color_name": "duck"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp-kit-ballistic-black-black-leather_5526870a-94e5-412e-9f8b-9398b4946d15_1024x1024.jpg?v=1584289366",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black-black-leather_20x20.png?v=8476182986046690549",
+        "color_name": "ballistic"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Dopp-kit-navy-brown-leather_57ba9747-cdd1-433d-b0c3-3753a3f01adc_1024x1024.jpg?v=1584113808",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy-brown-leather_20x20.png?v=2190316238914472741",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Dopp Kit - Heritage",
+    "price": "$49.00",
+    "shop": "shop_packs",
+    "ID": 31
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Smash_Pack_Navy_1024x1024.jpg?v=1584290873",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Smash_Pack_Red_1024x1024.jpg?v=1584290873",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red_20x20.png?v=773720368693010824",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Smash_Pack_Olive_1024x1024.jpg?v=1584290873",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_SmashPack_Black_1024x1024.jpg?v=1584290873",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_SmashPack_Blue_1024x1024.jpg?v=1584290873",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue_20x20.png?v=16043496334770696820",
+        "color_name": "blue"
+      }
+    ],
+    "name": "Smash Pack",
+    "price": "$69.00",
+    "shop": "shop_packs",
+    "ID": 32
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Bike_Bag_Olive_1024x1024.jpg?v=1584049057",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive-black_20x20.png?v=11207568399852190756",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Bike_Bag_Black_1024x1024.jpg?v=1584049057",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Bike_Bag_Red_1024x1024.jpg?v=1584049057",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red-black_20x20.png?v=362283687479176054",
+        "color_name": "red"
+      }
+    ],
+    "name": "Bike Bag",
+    "price": "$49.00",
+    "shop": "shop_packs",
+    "ID": 33
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/30l-navy-alt_b7a406ba-a930-4d33-ae26-64fb21f003dd_1024x1024.jpg?v=1583364583",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/30l-olive-alt_923ca1ad-2f00-4d9d-819e-6d8829a532c3_1024x1024.jpg?v=1583364583",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/30l-black-alt_1024x1024.jpg?v=1582910510",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black_20x20.png?v=2058593223305495546",
+        "color_name": "ballistic"
+      }
+    ],
+    "name": "Travel Bag - 30L",
+    "price": "$189.00",
+    "shop": "shop_packs",
+    "ID": 34
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase3Day_Charcoal_1024x1024.jpg?v=1583365361",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/charcoal_20x20.png?v=10205168996217176966",
+        "color_name": "charcoal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase3Day_Black_1024x1024.jpg?v=1583365361",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black_20x20.png?v=2058593223305495546",
+        "color_name": "ballistic"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase3Day_Navy_1024x1024.jpg?v=1583365361",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase3Day_BlueBlack-Ripstop_1024x1024.jpg?v=1583862726",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/blue-black-ripstop_20x20.png?v=3690094392071692428",
+        "color_name": "blue"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase3Day_RedBlackRipstop_1024x1024.jpg?v=1583862726",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/red-black-ripstop_20x20.png?v=1241848790707451825",
+        "color_name": "red"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/F19_GlobalBriefcase3Day_Olive_8f1d49fd-0ee6-41fb-b0ee-69eea1121d30_1024x1024.jpg?v=1582223635",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      }
+    ],
+    "name": "Global Briefcase 3-Day",
+    "price": "$159.00",
+    "shop": "shop_packs",
+    "ID": 35
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Madewell-LightPack-ThreeQuarter_1024x1024.jpg?v=1588870153",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/turquoise-copper-washed_20x20.png?v=3822438350867328200",
+        "color_name": "turquoise"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light-pack-black-black_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black-black_20x20.png?v=8655105380015392032",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light_pack_black_neon_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black-neon_20x20.png?v=12262400853230457135",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light_pack_mint_forest_coral_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/mint-forest-coral_20x20.png?v=9437000478248869039",
+        "color_name": "mint"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light_pack_black_royal_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/royal-black_20x20.png?v=8586376958161443670",
+        "color_name": "royal"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light_pack_clay_black_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/clay-black_20x20.png?v=6538225228544843562",
+        "color_name": "clay"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light-pack-black-coral_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black-coral_20x20.png?v=15653871217637297767",
+        "color_name": "black"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light_pack_white_red_turquoise_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/white-red-turquoise_20x20.png?v=3548188881852891140",
+        "color_name": "white"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light-pack-silver-mint_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/silver-mint_20x20.png?v=15636952033780099614",
+        "color_name": "silver"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/light-pack-neon-yellow-black_1024x1024.jpg?v=1588867756",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/yellow-black_20x20.png?v=5784313538918791042",
+        "color_name": "yellow"
+      }
+    ],
+    "name": "Light Pack",
+    "price": "$69.00",
+    "shop": "shop_packs",
+    "ID": 36
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Pack_Back_10L_Navy_S20_1024x1024.jpg?v=1588888948",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Pack_Back_10L_Olive_S20_1024x1024.jpg?v=1588888948",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/Pack_Back_10L_Black_S20_1024x1024.jpg?v=1588888948",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/black_20x20.png?v=2058593223305495546",
+        "color_name": "black"
+      }
+    ],
+    "name": "Pack Bag - 10L",
+    "price": "$24.00",
+    "shop": "shop_packs",
+    "ID": 37
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/s20_pr_globalbriefcase_premium_3_49565826641_o_copy_1024x1024.jpg?v=1582757317",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/premium-black_20x20.png?v=8727630357246941624",
+        "color_name": "premium"
+      }
+    ],
+    "name": "Global Briefcase - Premium",
+    "price": "$179.00",
+    "shop": "shop_packs",
+    "ID": 38
+  },
+  {
+    "swatches": [
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-trip-pack-3_1024x1024.jpg?v=1583364508",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/olive_20x20.png?v=14252705173538808448",
+        "color_name": "olive"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-trip-pack-5_1024x1024.jpg?v=1583863056",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/ballistic-black_20x20.png?v=2058593223305495546",
+        "color_name": "ballistic"
+      },
+      {
+        "img": "//cdn.shopify.com/s/files/1/0277/0693/products/bags-trip-pack-4_1024x1024.jpg?v=1583863056",
+        "color": "//cdn.shopify.com/s/files/1/0277/0693/t/119/assets/navy_20x20.png?v=4796280066829203172",
+        "color_name": "navy"
+      }
+    ],
+    "name": "Trip Pack",
+    "price": "$89.00",
+    "shop": "shop_packs",
+    "ID": 39
+  }
+]
