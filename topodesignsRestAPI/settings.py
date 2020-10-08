@@ -214,7 +214,7 @@ AUTH_USER_MODEL = 'user.User'
 #
 
 import dj_database_url
-db_from_env = dj_database_url.config()
+db_from_env = dj_database_url.config(default='sqlite:////{0}'.format(os.path.join(BASE_DIR, 'db.sqlite3')))
 DATABASES['default'].update(db_from_env)
 DATABASES['default']['CONN_MAX_AGE'] = 500
 
