@@ -3,8 +3,8 @@ import json
 import os
 from django.contrib.staticfiles.storage import staticfiles_storage
 from django.shortcuts import render, HttpResponse
-# request.GET.get('shop', '')
-# request.GET.get('shop', '')
+
+
 def index(request, path):
     shop = Shop.objects.create(name = path)
     shop.save()
