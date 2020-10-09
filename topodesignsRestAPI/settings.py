@@ -59,8 +59,8 @@ SOCIAL_AUTH_FACEBOOK_SECRET = 'ea3e07f053918219524599d65e211561' #client secret
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email', ]  # optional
 SOCIAL_AUTH_FACEBOOK_PROFILE_EXTRA_PARAMS = {'fields': 'name, email, first_name'}  # optional
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '165049280458-7cihmgo1bbbiq3oaea2bm2l3glgfsmo4.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'juh6-p_69rWIXQwlyQUvKPD0'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '165049280458-01beqj9i1gc4jr8trsjtr5pgk83p41p3.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'W8IJF7vxWRhwMbva1i7jB1XW'
 SOCIAL_AUTH_GOOGLE_OAUTH2_SCOPE = ['email',]
 AUTHENTICATION_BACKENDS = (
      # Facebook OAuth2
